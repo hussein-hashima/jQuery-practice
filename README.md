@@ -1,2 +1,2 @@
-# jQuery-practice
-jQuery practice party ticket website
+# Party Website
+jQuery practice 
